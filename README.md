@@ -1,3 +1,6 @@
+The author has been juggling several project deadlines recently, as a result, the code associated with the paper will be uploaded at a slightly later date than initially planned.
+Please be assured that the author is fully committed to making the code available. In the meantime, if you have any questions or concerns, please do not hesitate to reach out to the author directly via email at zhaoyurou@ruc.edu.cn
+
 # CIKM24-MMI-ExR
 Codes and Online Appendix for the CIKM'24 paper "Aligning Explanations for Recommendation with Rating and Feature via Maximizing Mutual Information"
 ## Dataset
