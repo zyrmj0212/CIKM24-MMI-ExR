@@ -14,5 +14,4 @@ mine.py -- pre-train a MI estimator to estimate the Mutual information between r
 
 att2seq_mmi.py -- implementation of Att2Seq+MMI
 
-ap2seq_mmi.py -- implementation of Ap2Seq+MMI
 
