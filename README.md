@@ -11,6 +11,8 @@ from the GitHub repository of (Li, Zhang, and Chen 2021).
 Additionally, we utilize the Spacy \footnote{https://spacy.io/} toolkit to conduct sentence dependency analysis on each review, removing those where the noun subject is ``I'' or ``We''. This is because such reviews often lack objective descriptions of the items, making them unsuitable to refer to when generating explanations. 
 ## Usage
 mine.py -- pre-train a MI estimator to estimate the Mutual information between rating/feature and explanation on  train set
+
 att2seq_mmi.py -- implementation of Att2Seq+MMI
+
 ap2seq_mmi.py -- implementation of Ap2Seq+MMI
 
