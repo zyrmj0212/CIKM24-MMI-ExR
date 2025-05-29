@@ -13,5 +13,6 @@ Additionally, we utilize the Spacy \footnote{https://spacy.io/} toolkit to condu
 mine.py -- pre-train a MI estimator to estimate the Mutual information between rating/feature and explanation on  train set
 
 att2seq_mmi.py -- implementation of Att2Seq+MMI
+apref2seq_mmi.py -- implementation of ApRef2Seq+MMI
 
 
